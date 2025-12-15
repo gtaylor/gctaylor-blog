@@ -2,12 +2,12 @@
 author: Greg Taylor
 pubDatetime: 2018-12-26T17:38:56+00:00
 modDatetime:
-title: Recordings + Slides from "Kubernetes at Reddit: An Origin Story" at KubeCon NA 2018
+title: "Recordings + Slides from 'Kubernetes at Reddit: An Origin Story' at KubeCon NA 2018"
 slug: recordings-slides-from-kubernetes-at-reddit-an-origin-story-at-kubecon-na-2018
 featured: false
 draft: false
 tags: ["Presentation", "Kubernetes"]
-description: ""
+description: Recordings from my presentation at KubeCon on Reddit's Kubernetes origin story.
 ---
 
 We were fortunate enough to be able to [present](https://kccna18.sched.com/event/GrRp/kubernetes-at-reddit-an-origin-story-greg-taylor-reddit-inc) some of what’s going on with Reddit’s Kubernetes adoption at KubeCon NA this year. Subject matter covered includes:

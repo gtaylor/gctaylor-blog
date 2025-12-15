@@ -6,9 +6,11 @@ title: Fire up an interactive bash Pod within a Kubernetes cluster
 slug: fire-up-an-interactive-bash-pod-within-a-kubernetes-cluster
 featured: false
 draft: false
-tags: ["Docker", "DevOps", "Kubernetes"]
-description: ""
+tags: ["Kubernetes", "How To"]
+description: How to start an interactive bash Pod on Kubernetes.
 ---
+
+*Note: This blog post is a very old and is preserved here for reference. There are probably better ways to do this today!*
 
 In those cases where you need a throw-away interactive shell within your cluster:
 
