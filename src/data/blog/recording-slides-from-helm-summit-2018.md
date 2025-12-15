@@ -6,7 +6,7 @@ title: Recording + Slides from Helm Summit 2018
 slug: recording-slides-from-helm-summit-2018
 featured: false
 draft: false
-tags: ["Presentation", "Kubernetes"]
+tags: ["Public Speaking", "Kubernetes"]
 description: Recordings from my presentation on Reddit's Kubernetes infrastructure at Helm Summit 2018.
 ---
 

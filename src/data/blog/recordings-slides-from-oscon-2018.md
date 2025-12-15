@@ -6,7 +6,7 @@ title: Recordings + Slides from OSCON 2018
 slug: recordings-slides-from-oscon-2018
 featured: false
 draft: false
-tags: ["Presentation", "Kubernetes"]
+tags: ["Public Speaking", "Kubernetes"]
 description: Recordings from my presentation at OSCON 2018, providing a glimpse into how we run Kubernetes at Reddit.
 ---
 

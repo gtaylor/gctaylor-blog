@@ -6,7 +6,7 @@ title: "Recordings + Slides from 'Kubernetes at Reddit: An Origin Story' at Kube
 slug: recordings-slides-from-kubernetes-at-reddit-an-origin-story-at-kubecon-na-2018
 featured: false
 draft: false
-tags: ["Presentation", "Kubernetes"]
+tags: ["Public Speaking", "Kubernetes"]
 description: Recordings from my presentation at KubeCon on Reddit's Kubernetes origin story.
 ---
 

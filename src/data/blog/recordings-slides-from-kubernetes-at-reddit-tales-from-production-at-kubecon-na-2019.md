@@ -6,7 +6,7 @@ title: "Recordings + Slides from \"Kubernetes at Reddit: Tales from Production\"
 slug: recordings-slides-from-kubernetes-at-reddit-tales-from-production-at-kubecon-na-2019
 featured: false
 draft: false
-tags: ["Presentation", "Kubernetes"]
+tags: ["Public Speaking", "Kubernetes"]
 description: Recordings from my presentation at KubeCon 2019, covering Reddit's trials and tribulations with Kubernetes in production.
 ---
 
