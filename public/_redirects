@@ -1,1 +1,2 @@
 /blog/:year/:month/:date/:slug /posts/:slug 301
+/blog/:year/:month/:date/:slug/ /posts/:slug 301
